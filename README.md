@@ -2,4 +2,4 @@
 Implementação de API Restful
 
 ### Tecnologias usadas:
-`Spring Boot`, `Mongo DB`
+`Spring Boot`, `MongoDB`
